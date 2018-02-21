@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Janet Mayher's Github](https://github.com/jlmayher)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Janet Mayher's LinkedIn](https://www.linkedin.com/in/janet-mayher-0b172370/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+Resume has been uploaded
